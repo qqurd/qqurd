@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey ❤️</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">📚 I'm currently learning Python, C++ and I'm starting to master web development<br>🎯 Goals: <br>   ~ improve your knowledge of programming languages;<br>   ~ master the field of development;<br>   ~ develop in this direction.<br>🎲 Fun fact: When I sleep, I have dreams where I solve math examples</h4>
+<h4 align="left">🌸 I'm currently learning Python, C++ and I'm starting to master web development<br>⭐ Goals: <br>   ~ improve your knowledge of programming languages;<br>   ~ master the field of development;<br>   ~ develop in this direction.<br>👀 Fun fact: When I sleep, I have dreams where I solve math examples</h4>
 
 ###
 
